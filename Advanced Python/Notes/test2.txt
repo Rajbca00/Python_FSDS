@@ -1,0 +1,4 @@
+this is a data i like to store in my file4
+this is a data i like to store in my file1
+this is a data i like to store in my file2
+this is a data i like to store in my file3
